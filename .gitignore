@@ -1,5 +1,9 @@
 .gitignore
 env/
 
+text_summarizer/data/
+text_summarizer/vocab_dir/
+text_summarizer/model/
+
 *.txt
 *.csv
