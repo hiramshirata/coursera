@@ -5,5 +5,9 @@ text_summarizer/data/
 text_summarizer/vocab_dir/
 text_summarizer/model/
 
+nlp_course_4/data/
+nlp_course_4/vocab_dir/
+nlp_course_4/model/
+
 *.txt
 *.csv
